@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925992292789",
+    "project_id": "gmiy-db",
+    "storage_bucket": "gmiy-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925992292789:android:69b65b38fce07a1b2949fc",
+        "android_client_info": {
+          "package_name": "com.example.gmiy_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925992292789-1fhvldrgbob50gvk6718j734u1a4pvfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHTd8qzqaSQVCqksKutyE7FLMKFQsTMUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925992292789-1fhvldrgbob50gvk6718j734u1a4pvfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
